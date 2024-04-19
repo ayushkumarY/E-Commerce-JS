@@ -1,0 +1,74 @@
+[
+  {
+    "id": 13,
+    "name": "T-Shirt",
+    "brand": "U.S.POLO ASSN.",
+    "price": 739,
+    "stock": 10,
+    "image": "https://m.media-amazon.com/images/I/71Zc2xCF6pL._SX569_.jpg"
+  },
+  {
+    "id": 14,
+    "name": "T-Shirt",
+    "brand": "U.S. POLO ASSN.",
+    "price": 782,
+    "stock": 100,
+    "image": "https://m.media-amazon.com/images/I/61ADwFxcCjL._SX569_.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Casual Shirt",
+    "brand": "Jack & Jones",
+    "price": 799,
+    "stock": 30,
+    "image": "https://m.media-amazon.com/images/I/617b52nvSZL._SY741_.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Blazer",
+    "brand": "MANQ",
+    "price": 2111,
+    "stock": 10,
+    "image": "https://m.media-amazon.com/images/I/51kyY5T0nKL._SX679_.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Slim Dress Pants",
+    "brand": "Amazon Brand",
+    "price": 1818.99,
+    "stock": 300,
+    "image": "https://m.media-amazon.com/images/I/61Jh7DzR8sL._SX569_.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Men's Slim Fit Shirt",
+    "brand": "Allen Solly",
+    "price": 929,
+    "stock": 200,
+    "image": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SX569_.jpg"
+  },
+  {
+    "id": 19,
+    "name": "T-Shirt",
+    "brand": "Levi's",
+    "price": 517,
+    "stock": 20,
+    "image": "https://m.media-amazon.com/images/I/51N9IHhcoxL._SX679_.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Shirts",
+    "brand": "The Souled Store",
+    "price": 999,
+    "stock": 20,
+    "image": "https://m.media-amazon.com/images/I/717yMnKYKzL._SY741_.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Shirts",
+    "brand": "The Souled Store",
+    "price": 999,
+    "stock": 20,
+    "image": "https://m.media-amazon.com/images/I/61mEYiQegnL._SY741_.jpg"
+  }
+]
