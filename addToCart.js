@@ -43,7 +43,7 @@ export const addToCart = (event, id, stock) => {
   }
 
   if (existingProd) {
-    alert("bhai duplicate hai");
+    // alert("bhai duplicate hai");
     showToast("add", id);
     return false;
   }
